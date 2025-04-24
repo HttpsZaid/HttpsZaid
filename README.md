@@ -33,7 +33,7 @@
 - Web development 
 ## 💼 Projects
 
-### 1. 🚖 **SMM PANEL**
+### 1. 🧑‍💻 **SMM PANEL**
 - **Description:** A full-stack smm platform with a clean and minimal UI/UX for both Admin and users.
 - **Features:**
   - U can buy followers, likes, Views.
