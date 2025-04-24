@@ -10,7 +10,7 @@
 ## 🛠️ Skills & Technologies
 
 ### **Languages:**
-- JavaScript, Python(basics of C++)
+- JavaScript, Python (basics of C++)
 
 ### **Frameworks & Libraries:**
 - React
@@ -55,7 +55,7 @@
 - **Easy login:** Helps users manage their expenses efficiently.
 
 ### 5. 🎓 *Jarvis Assistant:**
-- . A assistant bot like siri in pc that can do all things like open chrome open youtube search an video answer your question with good voice.
+-  A assistant like siri in pc that can do all things like open chrome open youtube search an video answer your question with good voice.
 
 ## 🌟 Fun Fact
 - "I am an athlete at heart and a developer by passion."
